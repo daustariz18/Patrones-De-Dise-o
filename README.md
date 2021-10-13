@@ -1,2 +1,2 @@
-# Patrones-De-Dise-o
+# Patrones-De-Diseño
 Ejemplos de algunos Patrones de Diseño
